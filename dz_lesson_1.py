@@ -6,3 +6,4 @@ def palindrom(word):
 
 word = input('Введите слово:  ')
 print(palindrom(word))
+
